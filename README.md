@@ -230,6 +230,14 @@
             <td align="center"><a href="content/charts/new_repo/knowledge/Ruby.md">Ruby</a></td> 
         </tr>
         <tr>
+            <td align="center"><a href="content/charts/overall/software/ArkTS.md">ArkTS</a></td> 
+            <td align="center"><a href="content/charts/overall/knowledge/ArkTS.md">ArkTS</a></td> 
+            <td align="center"><a href="content/charts/growth/software/ArkTS.md">ArkTS</a></td> 
+            <td align="center"><a href="content/charts/growth/knowledge/ArkTS.md">ArkTS</a></td> 
+            <td align="center"><a href="content/charts/new_repo/software/ArkTS.md">ArkTS</a></td> 
+            <td align="center"><a href="content/charts/new_repo/knowledge/ArkTS.md">ArkTS</a></td> 
+        </tr>
+        <tr>
             <td align="center"><a href="content/charts/overall/software/Lua.md">Lua</a></td> 
             <td align="center"><a href="content/charts/overall/knowledge/Lua.md">Lua</a></td> 
             <td align="center"><a href="content/charts/growth/software/Lua.md">Lua</a></td> 
